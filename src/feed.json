@@ -1,0 +1,57 @@
+{
+    "usuario":{
+        "nombre":"Azul",
+        "seguidores":14154,
+        "siguiendo":115,
+        "posts":12,
+        "bio":"siiiiiiiiiii",
+        "avatar":"../../assets/images/4.png",
+        "publicaciones":[
+        "2.png",
+        "1.jpg",
+        "4.png",
+        "9.png",
+        "5.png",
+        "6.png",
+        "7.png",
+        "3.png"
+
+        ]
+    },
+    "feed":
+    [
+        {
+          "id": 1,
+          "usuario":"Oreo",
+          "imagenPost":"../../assets/images/Posts/4.png",
+          "avatarUser":"../../assets/images/3.png",
+          "descripcion":"HI",
+          "likes": 2
+        },
+        {
+          "id": 2,
+          "usuario":"Max",
+          "imagenPost":"../../assets/images/Posts/1.png",
+          "avatarUser":"../../assets/images/2.png",
+          "descripcion":"Stonks",
+          "likes": 200
+        },
+        {
+          "id": 3,
+          "usuario":"Yeson",
+          "imagenPost":"../../assets/images/Posts/2.png",
+          "avatarUser":"../../assets/images/3.png",
+          "descripcion":"Bonks",
+          "likes": 43
+        },
+        {
+          "id": 4,
+          "usuario":"Polos",
+          "imagenPost":"../../assets/images/Posts/3.png",
+          "avatarUser":"../../assets/images/3.png",
+          "descripcion":"Hola",
+          "likes": 1291
+        }
+        
+      ]
+}
